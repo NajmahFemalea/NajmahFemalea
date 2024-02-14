@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Najmah Femalea**.<br>
+
+Saya sedang mengikuti program **Kampus Merdeka MSIB** yaitu studi independen di **Bangkit Dicoding** [Dicoding](https://www.dicoding.com/).<br>
+
+Saya mengambil path *Machine Learning*.<br>
+
+Saya harap saya bisa mengikuti program tersebut dengan baik, bisa mengerti apa yang diajarkan.
+
 <!--
 **NajmahFemalea/NajmahFemalea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
